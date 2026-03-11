@@ -192,7 +192,7 @@ This project demonstrates several SQL concepts including:
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/restaurant-orders-analysis.git
+git clone  https://safiyah-abiala.github.io/Restaurant-orders-data-analysis-using-SQL/
 ```
 
 2. Import the dataset into your SQL environment (PostgreSQL, MySQL, or any SQL client).
