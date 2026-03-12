@@ -209,3 +209,9 @@ Through SQL analysis of restaurant order data, this project demonstrates how raw
 - Revenue analysis
 - Customer behavior understanding
 - Operational decision-making
+
+---
+
+# 👩‍💻 Author
+
+**Ms_Safiyah**
